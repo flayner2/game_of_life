@@ -1,0 +1,1 @@
+Simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Visualization done with [pygame](200~https://www.pygame.org/news). No extra non-standard libraries were used.
